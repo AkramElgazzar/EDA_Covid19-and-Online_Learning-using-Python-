@@ -88,4 +88,5 @@ The data has been extracted from ist January 2020 to 1 January 2021. The highest
 # Finally:
 • It has been reported that Covid-19 arrived in the United states on 13 January 2020, which coincides with the nearly the same they started collecting this dataset. 
   From the chart we notice that the there wasn't much engagement at the beginning because the virus wasn't so fierce then. yet, the average access was very high.
+
 • This confirms that by the arrival of Covid-19 in the United States, there was a noticeable transformation to digital learning especially by the PreK-12 sector and Google products were the most used services at that time especially digital learning platforms which replaced gradually classrooms in schools
